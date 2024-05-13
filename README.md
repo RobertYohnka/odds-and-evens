@@ -1,6 +1,6 @@
 # Workshop - Odds and Events
 
-UPDATE - I was able to fix the SortAll button by first turning the input into a a string.  This was being done in SortOne which allowed SortAll to work but only after a click on SortOne turned state.bank.toString().
+UPDATE - This was initially set up as a private repository and that has been fixed.  I was able to fix the SortAll button by first turning the input into a a string.  This was being done in SortOne which allowed SortAll to work but only after a click on SortOne turned state.bank.toString().
 All 3 buttons on the HTML form are working.
 1. Add numbers updates the Number Bank
 2. Sort 1 - Moves numbers from Number Bank to Odds or Evens respectively
